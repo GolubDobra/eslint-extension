@@ -8,6 +8,12 @@ console.log('TESTS: ', TESTS);
 const testValue = { 1: 1 };
 console.log('testValue: ', testValue);
 
+const test01 = { 1: 1 };
+console.log('test01: ', test01);
+
+const test_01 = { 1: 1 };
+console.log('test_01: ', test_01);
+
 function func() {
   //code
 }
